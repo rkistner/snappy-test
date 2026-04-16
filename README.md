@@ -25,4 +25,5 @@ Running in Docker to test different setups:
 node:24, snappy@7.3.3: 2348MiB RSS
 node:24, snappy@7.2.2: 264MiB RSS
 node:24-alpine, snappy@7.3.3: 255MiB RSS
+node:24-alpine, snappy@7.3.1: 2356MiB RSS
 ```
