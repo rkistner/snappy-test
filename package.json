@@ -1,0 +1,7 @@
+{
+  "name": "snappy-test",
+  "license": "ISC",
+  "dependencies": {
+    "snappy": "7.3.3"
+  }
+}
